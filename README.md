@@ -1,3 +1,28 @@
-EzTravel will be a web application that allows users to plan and schedule their trip. Users will be able to input date, time, description as well as location of their plans into their own personalized interactive calendar/scheduler.
+# EzTravel
 
-Ultimately, we envision EzTravel to be a user-friendly web application that is easy to use and by everyone. We hope that we can add additional features that could refine its recommendations to ensure that it is the optimal experience for its users.
+**EzTravel** is a web platform that allows travelers to **create, share, and explore travel itineraries**. Users can view other people’s itineraries, rate them, and get inspiration for their own trips. Built with a focus on seamless user experience and rich interactivity, EzTravel makes trip planning simple and social.
+
+---
+
+## Features
+
+| Feature | Description |
+|---------|-------------|
+| Itinerary Sharing | Create and publish personalized travel itineraries. |
+| Explore & Rate | Browse itineraries from other travelers and give ratings. |
+| Search & Filter | Easily find trips by destination, duration, or user ratings. |
+| PDF Export | Generate PDFs of itineraries for offline access. |
+| Interactive Maps | Integrates **Google Maps API** to visualize trip locations. |
+
+---
+
+## Tech Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| Frontend | React.js, Tailwind CSS|
+| Backend | Node.js (Express), MongoDB |
+| Authentication | JWT, Passport |
+| Deployment | Vercel (Frontend), Render (Backend) |
+
+---
